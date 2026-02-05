@@ -1,0 +1,95 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "value": "home",
+      "link": "https://elecodeiranzamin.com",
+      "dropdown": []
+    },
+    {
+      "id": 2,
+      "value": "about",
+      "link": "https://digikala.com",
+      "dropdown": []
+    },
+    {
+      "id": 3,
+      "value": "contact",
+      "link": "https://aparat.com",
+      "dropdown": []
+    },
+    {
+      "id": 4,
+      "value": "products",
+      "link": "#",
+      "dropdown": [
+        {
+          "id": 1,
+          "value": "product-1",
+          "link": "https://www.digikala.com/incredible-offers"
+        },
+        {
+          "id": 2,
+          "value": "product-2",
+          "link": "https://www.digikala.com/fresh/?utm_source=digikala-web&utm_medium=home-category"
+        },
+        {
+          "id": 3,
+          "value": "product-3",
+          "link": "https://www.digikala.com/wealth/my-assets/?utm_source=dk&utm_medium=undersearchbutton&utm_campaign=fixbutton"
+        },
+        {
+          "id": 4,
+          "value": "product-4",
+          "link": "https://www.digikala.com/best-selling/"
+        }
+      ]
+    }
+  ],
+  "slider": [
+    {
+      "id": 1,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/83fc087138915ce6acf530a1bb68017cc9a0d631_1770222576.gif?x-oss-process=image",
+      "title": "بهترین فرصت خرید موبایل",
+      "is_ad": false,
+      "url": "https://digikala.com/landing/mobile-tablet/?&promo_name=%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86+%D9%81%D8%B1%D8%B5%D8%AA+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84&promo_position=home_slider_new_v2&promo_creative=205799&bCode=205799",
+      "description": "موبایل و تبلت، از اقتصادی تا پرچمدار"
+    },
+    {
+      "id": 2,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/1bc71e476cbe002a1b87763134d78eb4749d6c6b_1768991809.jpg?x-oss-process=image/quality,q_95",
+      "title": "بهترین فرصت خرید موبایل",
+      "is_ad": false,
+      "url": "https://digikala.com/landing/mobile-tablet/?&promo_name=%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86+%D9%81%D8%B1%D8%B5%D8%AA+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84&promo_position=home_slider_new_v2&promo_creative=205799&bCode=205799",
+      "description": "موبایل و تبلت، از اقتصادی تا پرچمدار"
+    },
+    {
+      "id": 3,
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/6edd850bc8f84086d745c20aa488cab3a112e451_1769499636.jpg?x-oss-process=image/quality,q_95",
+      "title": "بهترین فرصت خرید موبایل",
+      "is_ad": false,
+      "url": "https://digikala.com/landing/mobile-tablet/?&promo_name=%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86+%D9%81%D8%B1%D8%B5%D8%AA+%D8%AE%D8%B1%DB%8C%D8%AF+%D9%85%D9%88%D8%A8%D8%A7%DB%8C%D9%84&promo_position=home_slider_new_v2&promo_creative=205799&bCode=205799",
+      "description": "موبایل و تبلت، از اقتصادی تا پرچمدار"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "موبایل",
+      "description": "موبایل و تبلت، از اقتصادی تا پرچمدار",
+      "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a1a7c0f2caa80238b1089d460e054e7bba2dfb5e_1769577988.jpg?x-oss-process=image/quality,q_95/format,webp"
+    },
+    {
+        "id": 2,
+        "title": "موبایل",
+        "description": "موبایل و تبلت، از اقتصادی تا پرچمدار",
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a1a7c0f2caa80238b1089d460e054e7bba2dfb5e_1769577988.jpg?x-oss-process=image/quality,q_95/format,webp"
+      },
+      {
+        "id": 3,
+        "title": "موبایل",
+        "description": "موبایل و تبلت، از اقتصادی تا پرچمدار",
+        "image": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a1a7c0f2caa80238b1089d460e054e7bba2dfb5e_1769577988.jpg?x-oss-process=image/quality,q_95/format,webp"
+      }
+  ]
+}
